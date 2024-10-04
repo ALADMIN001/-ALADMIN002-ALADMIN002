@@ -1,0 +1,1 @@
+changepk.exe /ProductKey <YTMG3-N6DKC-DKB77-7M9GH-8HVX7>
