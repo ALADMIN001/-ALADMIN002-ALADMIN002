@@ -1,0 +1,1 @@
+dism /online /english /Get-TargetEditions
