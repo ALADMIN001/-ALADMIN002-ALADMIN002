@@ -1,0 +1,1 @@
+changepk.exe /ProductKey <XGVPP-NMH47-7TTHJ-W3FW7-8HV2C>
